@@ -1,2 +1,3 @@
 # pyari-tech.github.io
-the homepage to this organization
+
+the homepage to this PITCH
