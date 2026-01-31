@@ -1,3 +1,5 @@
 # pyari-tech.github.io
 
-the homepage to this PITCH
+The homepage to this PITCH; serves [pitch.lude.page](http://pitch.lude.page/).
+
+---
